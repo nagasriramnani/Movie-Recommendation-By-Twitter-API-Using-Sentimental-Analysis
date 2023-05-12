@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mt-5">Movie Recommendation</h1>
+        <form action="/recommend" method="post" class="mt-5">
+            <div class="form-group">
+                <label for="movie_title">Enter a movie title:</label>
+                <input type="text" id="movie_title" name="movie_title" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Get Recommendations</button>
+        </form>
+
+        {% if recommended_movies %}
+        <h2 class="mt-5">Recommended Movies:</h2>
+        <div class="row">
+            {% for movie in recommended_movies %}
+            <div class="col-md-4" style="max-width: 20%;">
+                <div class="card mb-4" >
+                    <img src="https://image.tmdb.org/t/p/w500{{ movie.poster_path }}" class="card-img-top" alt="{{ movie.title }}">
+                    <div class="card-body"  style="min-height: 70px;"     >
+                        <h5 class="card-title">{{ movie.title }}</h5>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

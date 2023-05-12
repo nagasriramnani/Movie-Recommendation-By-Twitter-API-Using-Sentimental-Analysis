@@ -1,0 +1,50 @@
+movie_name,genres,average_sentiment,sentiment_score
+Inception,"Action,Adventure,Sci-Fi,Thriller",Good,0.10918506493506493
+The Matrix,"Action,Sci-Fi",Good,0.15844581529581528
+Interstellar,"Adventure,Drama,Sci-Fi",Good,0.26750954785954784
+The Shawshank Redemption,Drama,Good,0.2869964646464646
+The Godfather,"Crime,Drama",Good,0.20424166666666668
+Plan 9 from Outer Space,"Horror,Sci-Fi",Average,-0.08356283422459893
+The Room,Drama,Good,0.10024740517419088
+Manos: The Hands of Fate,Horror,Bad,-0.43819444444444433
+Birdemic: Shock and Terror,"Fantasy,Horror,Mystery,Thriller",Bad,-0.49583333333333324
+Troll 2,"Comedy,Fantasy,Horror",Average,-0.008770743145743134
+Forrest Gump,"Drama,Romance",Good,0.12868764172335603
+Pulp Fiction,"Crime,Drama",Good,0.1315156204906205
+12 Angry Men,"Crime,Drama",Good,0.2447902009894867
+Fight Club,Drama,Good,0.10455634920634921
+Schindler's List,"Biography,Drama,History",Average,0.0784770202020202
+Star Wars: Episode V - The Empire Strikes Back,"Action,Adventure,Fantasy,Sci-Fi",Good,0.1523515331890332
+Goodfellas,"Biography,Crime,Drama",Good,0.3147364468864469
+The Dark Knight,"Action,Crime,Drama,Thriller",Good,0.21371810966810967
+Casablanca,"Drama,Romance,War",Good,0.2589914411976912
+Gladiator,"Action,Adventure,Drama",Good,0.19699574314574314
+Jaws: The Revenge,"Adventure,Horror,Thriller",Average,0.09030583613916947
+Batman & Robin,"Action,Sci-Fi",Good,0.16020958694083695
+Son of the Mask,"Comedy,Family,Fantasy",Average,0.05603896103896103
+Catwoman,"Action,Crime,Fantasy",Average,0.09214261363636364
+The Hottie & the Nottie,"Comedy,Romance",Bad,-0.85
+Battlefield Earth,"Action,Adventure,Sci-Fi",Average,0.09720321723730815
+Gigli,"Comedy,Crime,Romance",Average,0.08683150183150182
+The Avengers,"Action,Adventure,Sci-Fi,Thriller",Good,0.25
+Alone in the Dark,"Action,Horror,Sci-Fi",Average,-0.033972479012503644
+Armageddon,"Action,Adventure,Sci-Fi,Thriller",Average,0.07676551226551226
+Jurassic Park,"Action,Adventure,Sci-Fi,Thriller",Good,0.11450544733044733
+Independence Day,"Action,Adventure,Sci-Fi",Good,0.15678520923520922
+King Kong,"Action,Adventure,Drama,Romance",Good,0.3257936507936508
+The Day After Tomorrow,"Action,Adventure,Sci-Fi,Thriller",Average,0.0845474025974026
+The Fast and the Furious,"Action,Crime,Thriller",Good,0.17725253684807257
+Titanic,"Drama,Romance",Good,0.11564333513708513
+Ocean's Eleven,"Crime,Thriller",Good,0.15908929322991824
+Men in Black,"Action,Adventure,Comedy,Sci-Fi",Average,0.07062979282622141
+Spider-Man: Across the Spider-Verse,"Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi",Good,0.1261387445887446
+Transformers,"Action,Adventure,Sci-Fi",Good,0.14652242965367968
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Fantasy",Good,0.10510883838383839
+Avatar: The Way of Water,"Action,Adventure,Fantasy,Sci-Fi",Good,0.14054401154401153
+The Da Vinci Code,"Mystery,Thriller",Average,0.04632697510822511
+The Mummy,"Action,Adventure,Fantasy",Good,0.17054723124098126
+The Hangover,Comedy,Good,0.1586686507936508
+Star Wars: Episode I - The Phantom Menace,"Action,Adventure,Fantasy,Sci-Fi",Good,0.31374839466089466
+The Lord of the Rings: The Fellowship of the Ring,"Action,Adventure,Drama,Fantasy",Good,0.2592424242424242
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure,Family,Fantasy",Good,0.1847773654916512
+London Has Fallen,"Action,Thriller",Average,-0.01304563492063491
